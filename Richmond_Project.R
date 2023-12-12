@@ -24,7 +24,7 @@ ResidueHydropathy = c("A" =1.80, "C" =2.50, "D" =-3.50, "E" =-3.50, "F" =2.80,
                       "S" =-0.80, "T" =-0.70, "V" =4.20, "W" =-0.90, "Y" =-1.30)
 
 #Stores simple txt file, MAKE SURE TO CHANGE TO FILE OF CHOICE.
-input <- "RASPBERRY.TXT"
+input <- "RASPBERRY.txt"
 #Reads all lines, stored as var.
 my_data <- readLines(input)
 
